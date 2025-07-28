@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2269a68c.css",
-    "main.js": "/static/js/main.22fc0261.js",
+    "main.js": "/static/js/main.4000a1d4.js",
     "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
     "static/media/22BCS078_UmraZakirAnsari.jpg": "/static/media/22BCS078_UmraZakirAnsari.bfcc2450d11845e70f07.jpg",
     "static/media/resume.pdf": "/static/media/resume.3fd2249ca830179728b3.pdf",
     "index.html": "/index.html",
     "main.2269a68c.css.map": "/static/css/main.2269a68c.css.map",
-    "main.22fc0261.js.map": "/static/js/main.22fc0261.js.map",
+    "main.4000a1d4.js.map": "/static/js/main.4000a1d4.js.map",
     "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2269a68c.css",
-    "static/js/main.22fc0261.js"
+    "static/js/main.4000a1d4.js"
   ]
 }
